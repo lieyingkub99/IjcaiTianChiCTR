@@ -1,7 +1,7 @@
 # IjcaiTianChiCTR
 IJCAI-18 阿里妈妈搜索广告转化预测：
 
-#初赛22名，复赛36名
+#初赛22名，复赛36名  （5204队）
 
 |数据下载：https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.51ef2163C98XDU&raceId=231647
 |-
